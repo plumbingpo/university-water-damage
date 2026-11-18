@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://universityrestorationco.com/sitemap.xml
